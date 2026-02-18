@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sahnur Nursery | Japanese Miyazaki Mango Plant</title>
+
+<style>
+body {margin:0;font-family:Arial;background:#f5f5f5;}
+header {background:#0a7d2c;color:white;text-align:center;padding:30px;}
+nav {background:#064d1c;padding:10px;text-align:center;}
+nav a {color:white;margin:0 15px;text-decoration:none;font-weight:bold;}
+section {padding:40px;text-align:center;}
+.product {background:white;padding:20px;border-radius:10px;box-shadow:0 0 10px #ccc;max-width:600px;margin:auto;}
+button {background:#25D366;color:white;padding:15px 25px;border:none;border-radius:5px;font-size:16px;cursor:pointer;}
+footer {background:#222;color:white;text-align:center;padding:20px;margin-top:30px;}
+</style>
+
+</head>
+<body>
+
+<header>
+<h1>Sahnur Nursery</h1>
+<p>Premium Grafted Fruit Plants in West Bengal</p>
+</header>
+
+<nav>
+<a href="#home">Home</a>
+<a href="#product">Product</a>
+<a href="#contact">Contact</a>
+</nav>
+
+<section id="home">
+<h2>Welcome to Sahnur Nursery</h2>
+<p>We provide high-quality grafted mango plants directly from our nursery in North 24 Parganas.</p>
+</section>
+
+<section id="product">
+<div class="product">
+<h2>Japanese Miyazaki Mango Grafted Plant</h2>
+<p>✔ Rare Purple Mango Variety</p>
+<p>✔ 2–3 Ft Tall Healthy Plant</p>
+<p>✔ Fruiting in 2–3 Years</p>
+<p>✔ Perfect for Terrace & Home Garden</p>
+<br>
+<a href="https://wa.me/916295621267" target="_blank">
+<button>Order on WhatsApp</button>
+</a>
+</div>
+</section>
+
+<section id="contact">
+<h2>Contact Us</h2>
+<p><strong>Phone:</strong> 6295621267</p>
+<p><strong>Address:</strong><br>
+Majerpara, Raikola, Chakla,<br>
+Deganga, North 24 Parganas,<br>
+West Bengal – 743424</p>
+</section>
+
+<footer>
+<p>© 2026 Sahnur Nursery | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
